@@ -5,6 +5,7 @@ The app provides standard, scientific, and programmer calculator functionality, 
 Calculator ships regularly with new features and bug fixes. You can get the latest version of Calculator in the [Microsoft Store](https://www.microsoft.com/store/apps/9WZDNCRFHVN5).
 
 [![Build Status](https://dev.azure.com/ms/calculator/_apis/build/status/Calculator-CI?branchName=main)](https://dev.azure.com/ms/calculator/_build/latest?definitionId=57&branchName=main)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fraj45681%2Fcalculator.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fraj45681%2Fcalculator?ref=badge_shield)
 
   ![Calculator Screenshot](docs/Images/CalculatorScreenshot.png)
 
@@ -74,3 +75,6 @@ Please refer to [SECURITY.md](./SECURITY.md).
 Copyright (c) Microsoft Corporation. All rights reserved.
 
 Licensed under the [MIT License](./LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fraj45681%2Fcalculator.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fraj45681%2Fcalculator?ref=badge_large)
